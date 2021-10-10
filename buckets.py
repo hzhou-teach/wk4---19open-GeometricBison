@@ -1,4 +1,4 @@
-/Solved quickly but only passed 8 test cases, redid the problem later and passed 10/10 cases
+//Solved quickly but only passed 8 test cases, redid the problem later and passed 10/10 cases
 arr = []
 b = []
 l = []
